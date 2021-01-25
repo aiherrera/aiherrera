@@ -1,16 +1,16 @@
 ### Hello everyone, I am Alain <a href="[aiherrera][website]">Let's meet!</a> ✌️
 [![Website](https://img.shields.io/website?label=aiherrera.com&style=for-the-badge&url=https%3A%2F%2Faiherrera.com)](https://aiherrera.com)
 
-## I'am a 👫 Husband, 👋 Friend, 🎵 Music lover & 💻 Software Engineer!
+## I'am a 👫 &nbsp; Husband, 👋 &nbsp; Friend, 🎵 &nbsp; Music lover & 💻 &nbsp; Software Engineer!
 
-- 🔭 I’m currently rewriting my personal website into React.js
-- 🌱 Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
-- 🆚 2021 Goals: Contribute to Open Source projects
-- 💬 Ask me about Angular, React, Node ...
+- 🔭 &nbsp; I’m currently rewriting my personal website into React.js
+- 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
+- 🆚 &nbsp; 2021 Goals: Contribute to Open Source projects
+- 💬 &nbsp; Ask me about Angular, React, Node ...
 - ⚡ Fun facts:
-  - ✈️ 🚆 🚌 🚗 Love to travel with my wife
-  - 🎹 Currently learning to play piano 🎼
-  - Love ☕ expresso  
+  - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
+  - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
+  - Love ☕ &nbsp; expresso  
 
 ---
 

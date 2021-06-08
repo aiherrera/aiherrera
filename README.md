@@ -59,8 +59,3 @@
   
 ![Alain's github stats](https://github-readme-stats.vercel.app/api?username=aiherrera&show_icons=true&hide_border=true&theme=react&count_private=true)
 
-
----
-
-[website]: https://aiherrera.com
-[linkedin]: https://linkedin.com/in/alain-iherrera

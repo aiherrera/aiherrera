@@ -7,7 +7,7 @@
 - 🔭 &nbsp; I’m currently rewriting my personal website into React.js
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
 - 🆚 &nbsp; 2021 Goals: Contribute to Open Source projects
-- 💬 &nbsp; Ask me about Angular, React, Node ...
+- 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
 - ⚡ &nbsp; Fun facts:
   - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
   - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼

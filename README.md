@@ -8,6 +8,7 @@
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
 - 🆚 &nbsp; 2021 Goals: Contribute to Open Source projects
 - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
+- 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence
 - ⚡ &nbsp; Fun facts:
   - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
   - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼

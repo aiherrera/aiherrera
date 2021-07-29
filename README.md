@@ -12,7 +12,7 @@
 - ⚡ &nbsp; Fun facts:
   - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
   - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
-  - Have a awesome furry &nbsp; 🐶 &nbsp; best friend
+  - Have a awesome furry 🐶 &nbsp; best friend
   - Love &nbsp; ☕ &nbsp; expresso  
 
 ---

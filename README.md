@@ -4,7 +4,7 @@
 
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
 
-- 🔭 &nbsp; I’m currently rewriting my personal website into Gatsby
+- 🔭 &nbsp; I’m currently rewriting my personal website into Next 13
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
 - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
 - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...

@@ -1,7 +1,7 @@
 <h1> Hello everyone, I am Alain Iglesias <a href="https://aiherrera.com">Let's meet!</a> ✌️ </h1>
 
 <!-- [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com) -->
-<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/-aiherrera/)
 
 
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!

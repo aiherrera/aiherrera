@@ -8,6 +8,10 @@
 
 <div align="left">
   
+  <div align="right">
+    <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/></a>
+</div>
+  
   - 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
   - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
   - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
@@ -21,9 +25,7 @@
   
 </div>
 
-<div align="right">
-    <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/></a>
-</div>
+
 
 ---
 

@@ -6,20 +6,18 @@
 
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
 
-<div align="left">
-  <p> - 🔭 &nbsp; I’m currently rewriting my personal website into Next 13</p>
-  <p> - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter</p>
-  <p> - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...</p>
-  <p> - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...</p>
-  <p> - 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence</p>
-  <p> - ⚡ &nbsp; Fun facts:</p>
-    <p> - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife</p>
-    <p> - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼</p>
-    <p> - Have a awesome furry 🐶 &nbsp; best friend</p>
-    <p> - Love &nbsp; ☕ &nbsp; expresso </p>
+- 🔭 &nbsp; I’m currently rewriting my personal website into Next 13
+- 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
+- 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
+- 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
+- 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence
+- ⚡ &nbsp; Fun facts:
+  - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
+  - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
+  - Have a awesome furry 🐶 &nbsp; best friend
+  - Love &nbsp; ☕ &nbsp; expresso
 
     <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="400" alt="Alain Iglesias's Dev Card"/></a>
-</div>
   
 ---
 

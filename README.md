@@ -6,7 +6,7 @@
 
 
 
-
+<div style="align:left">
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
 
 - 🔭 &nbsp; I’m currently rewriting my personal website into Next 13
@@ -19,9 +19,9 @@
   - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
   - Have a awesome furry 🐶 &nbsp; best friend
   - Love &nbsp; ☕ &nbsp; expresso  
+</div>
 
-
-<a style="align:left" href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="400" alt="Alain Iglesias's Dev Card"/></a>
+<a style="align:right" href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="400" alt="Alain Iglesias's Dev Card"/></a>
 
 
 ---

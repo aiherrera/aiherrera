@@ -5,28 +5,18 @@
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_aiherrera)
 
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
-
-<div align="left">
   
-  <div align="right">
-    <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/></a>
-</div>
+- 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
+- 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
+- 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
+- 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
+- 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence
+- ⚡ &nbsp; Fun facts:
+  - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
+  - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
+  - Have a awesome furry 🐶 &nbsp; best friend
+  - Love &nbsp; ☕ &nbsp; expresso
   
-  - 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
-  - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
-  - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
-  - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
-  - 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence
-  - ⚡ &nbsp; Fun facts:
-    - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
-    - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
-    - Have a awesome furry 🐶 &nbsp; best friend
-    - Love &nbsp; ☕ &nbsp; expresso
-  
-</div>
-
-
-
 ---
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

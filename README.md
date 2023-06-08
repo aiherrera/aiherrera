@@ -8,7 +8,7 @@
 
 <div align="left">
   
-  - 🔭 &nbsp; I’m currently rewriting my <a href="https://aiherrera.com" target="_blank">personal website</a> into Next 13
+  - 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
   - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
   - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
   - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...

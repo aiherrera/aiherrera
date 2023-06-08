@@ -7,6 +7,7 @@
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
 
 <div align="left">
+  
   - 🔭 &nbsp; I’m currently rewriting my personal website into Next 13
   - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
   - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
@@ -17,6 +18,7 @@
     - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
     - Have a awesome furry 🐶 &nbsp; best friend
     - Love &nbsp; ☕ &nbsp; expresso
+  
 </div>
 
 <div align="right">

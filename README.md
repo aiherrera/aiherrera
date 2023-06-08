@@ -12,8 +12,6 @@
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python & Flutter
 - 🆚 &nbsp; 2023-2024 Goals: Finish my MS. Big Data
   
-  ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
-  
 ---
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

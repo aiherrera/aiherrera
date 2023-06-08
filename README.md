@@ -6,6 +6,8 @@
 
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
 
+<div align="left">
+
 - 🔭 &nbsp; I’m currently rewriting my personal website into Next 13
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python, Swift & Flutter
 - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
@@ -16,10 +18,13 @@
   - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
   - Have a awesome furry 🐶 &nbsp; best friend
   - Love &nbsp; ☕ &nbsp; expresso
+  
+ </div>
 
 <div align="right">
     <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/></a>
 </div>
+
 ---
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)

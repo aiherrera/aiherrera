@@ -9,14 +9,7 @@
 - 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
 - ✍️ &nbsp; Usually I write on my <a rel="me" href="https://blog.aiherrera.com">Blog</a> or in <a rel="me" href="https://aiherrera.medium.com">Medium</a>
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python & Flutter
-- 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
-- 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...
-- 😎 &nbsp; Interested in cool tech like: Blockchain, Machine Learning, Big Data & Artificial Intelligence
-- ⚡ &nbsp; Fun facts:
-  - ✈️ 🚆 🚌 🚗 &nbsp; Love to travel with my wife
-  - 🎹 &nbsp; Currently learning to play piano &nbsp; 🎼
-  - Have a awesome furry 🐶 &nbsp; best friend
-  - Love &nbsp; ☕ &nbsp; expresso
+- 🆚 &nbsp; 2023-2024 Goals: Finish my MS. Big Data
   
 ---
 

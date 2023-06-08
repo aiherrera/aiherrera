@@ -7,7 +7,7 @@
 ## I'am a &nbsp; 👫 &nbsp; Husband, &nbsp; 👋 &nbsp; Friend, &nbsp; 🎵 &nbsp; Music lover & &nbsp; 💻 &nbsp; Sr. Software Engineer!
   
 - 🔭 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
-- ✍️
+- ✍️ &nbsp; Usually I write on my <a rel="me" href="https://blog.aiherrera.com">Blog</a> or in <a rel="me" href="https://aiherrera.medium.com">Medium</a>
 - 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python & Flutter
 - 🆚 &nbsp; 2022-2023 Goals: Finish my MS. Big Data...
 - 💬 &nbsp; Ask me about Angular, Ionic, React, Node ...

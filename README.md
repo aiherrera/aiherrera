@@ -45,8 +45,6 @@
   
 <h2>📌 Selected repositories</h2>
 
----
-
 <br>
 
 <a href="https://github.com/aiherrera/vite-react-starter-template">
@@ -80,11 +78,9 @@
   </picture>
 </a>
 
-<br>
+<br><br>
   
 <h2>⏳ Some metrics</h2>
-
----
 
 <br>
 
@@ -101,7 +97,7 @@
   </picture>
 </a>
 
-<br>
+<br><br>
 
 <a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/>
 </a>

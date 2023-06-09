@@ -47,31 +47,31 @@
 
 <br>
 
-<a href="https://github.com/aiherrera/vite-react-starter-template">
+<a href="https://github.com/aiherrera/vite-react-starter-template" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=vite-react-starter-template&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=vite-react-starter-template" />
   </picture>
 </a>
-<a href="https://github.com/aiherrera/turborepo-template">
+<a href="https://github.com/aiherrera/turborepo-template" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=turborepo-template&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=turborepo-template" />
   </picture>
 </a>
-<a href="https://github.com/aiherrera/react-expo-template">
+<a href="https://github.com/aiherrera/react-expo-template" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=react-expo-template&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=react-expo-template" />
   </picture>
 </a>
-<a href="https://github.com/aiherrera/nextjs-tauri-template-starter">
+<a href="https://github.com/aiherrera/nextjs-tauri-template-starter" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=nextjs-tauri-template-starter&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=nextjs-tauri-template-starter" />
   </picture>
 </a>
-<a href="https://github.com/aiherrera/analog-clock">
+<a href="https://github.com/aiherrera/analog-clock" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=analog-clock&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aiherrera&repo=analog-clock" />
@@ -99,5 +99,5 @@
 
 <br><br>
 
-<a href="https://app.daily.dev/aiherrera"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/>
+<a href="https://app.daily.dev/aiherrera" target="_blank"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/>
 </a>

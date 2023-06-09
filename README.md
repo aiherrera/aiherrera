@@ -8,10 +8,6 @@
 
 <h2>I am Alain Iglesias</h2>
 
----
-
-<br>
-
 - 💻 &nbsp; Developer at <a rel="me" href="https://globant.com">Globant</a>
 - 🛠 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
 - ✍️ &nbsp; Usually I write on my <a rel="me" href="https://blog.aiherrera.com">Blog</a> and/or in <a rel="me" href="https://aiherrera.medium.com">Medium</a>
@@ -21,8 +17,6 @@
 <br>
 
 <h2> 🧬 My current DNA: </h2>
-
----
 
 <br>
 

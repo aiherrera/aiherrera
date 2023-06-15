@@ -49,6 +49,37 @@
 <br>
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.aiherrera.com/fast-database-diagrams-with-quickdbd-an-easy-to-use-tool" title="Fast Database Diagrams with QuickDBD: An Easy-to-Use Tool"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686089994111/af456f31-a04e-4ac8-93e2-e3f45692b7c2.png" alt="Fast Database Diagrams with QuickDBD: An Easy-to-Use Tool" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/fast-database-diagrams-with-quickdbd-an-easy-to-use-tool" title="Fast Database Diagrams with QuickDBD: An Easy-to-Use Tool"><strong>Fast Database Diagrams with QuickDBD: An Easy-to-Use Tool</strong></a>
+<div><strong>6 June 2023</strong> | <strong>Updated: 6 June 2023</strong></div>
+<br/> Introduction
+When it comes to designing and managing database schemas, QuickDBD (Quick Database Diagrams) stands out as a powerful and efficient tool. It's a free online browser-based diagramming tool that comes with a host of beneficial features. In... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.aiherrera.com/crafting-time-building-an-analog-clock-with-react-and-tailwind-css" title="Crafting Time: Building an Analog Clock with React and Tailwind CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684288045889/d9ab9b2e-265e-4400-9aed-2050da83c54e.png" alt="Crafting Time: Building an Analog Clock with React and Tailwind CSS" width="250px" align="right" /></a>
+<a href="https://blog.aiherrera.com/crafting-time-building-an-analog-clock-with-react-and-tailwind-css" title="Crafting Time: Building an Analog Clock with React and Tailwind CSS"><strong>Crafting Time: Building an Analog Clock with React and Tailwind CSS</strong></a>
+<div><strong>20 May 2023</strong> | <strong>Updated: 20 May 2023</strong></div>
+<br/> Introduction
+In the dynamic world of JavaScript frameworks, few hold their ground as solidly as React. Combine it with the elegance and simplicity of Tailwind CSS, and you've got a potent mix that is ideal for building user interfaces. In today's pos... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.aiherrera.com/vite-based-starter-kit-for-react-apps-without-using-frameworks" title="Vite-based Starter Kit for React Apps without Using Frameworks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683645755501/151ef50c-0528-43d9-ba85-bbe927f972b3.png" alt="Vite-based Starter Kit for React Apps without Using Frameworks" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/vite-based-starter-kit-for-react-apps-without-using-frameworks" title="Vite-based Starter Kit for React Apps without Using Frameworks"><strong>Vite-based Starter Kit for React Apps without Using Frameworks</strong></a>
+<div><strong>9 May 2023</strong></div>
+<br/> Introduction
+Have you ever needed to prepare ASAP(as usual) a quick demonstration to be shown or just wanted to develop an idea that hit you out of the blue?
+In this tutorial, we will be constructing a React application utilizing Vite as our primary ... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.aiherrera.com/easy-guide-to-create-a-desktop-app-with-nextjs-and-tauri-step-by-step" title="Easy Guide to Create a Desktop App with Next.js and Tauri: Step-by-Step"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683350176991/6332ca12-0035-473a-b77d-24df47b84a2d.png" alt="Easy Guide to Create a Desktop App with Next.js and Tauri: Step-by-Step" width="250px" align="right" /></a>
+<a href="https://blog.aiherrera.com/easy-guide-to-create-a-desktop-app-with-nextjs-and-tauri-step-by-step" title="Easy Guide to Create a Desktop App with Next.js and Tauri: Step-by-Step"><strong>Easy Guide to Create a Desktop App with Next.js and Tauri: Step-by-Step</strong></a>
+<div><strong>7 May 2023</strong></div>
+<br/> Introduction
+Desktop applications have been an essential part of the software industry for decades. With the increasing demand for user-friendly and responsive applications, developers are always on the lookout for better tools and frameworks to crea... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.aiherrera.com/simplify-your-nextjs-and-turborepo-setup-easy-to-follow-environment-configuration-guide" title="Simplify Your Next.js and TurboRepo Setup: Easy-to-Follow Environment Configuration Guide"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683161599066/47d2cb25-d496-4533-ade6-75d1a2c7a656.png" alt="Simplify Your Next.js and TurboRepo Setup: Easy-to-Follow Environment Configuration Guide" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/simplify-your-nextjs-and-turborepo-setup-easy-to-follow-environment-configuration-guide" title="Simplify Your Next.js and TurboRepo Setup: Easy-to-Follow Environment Configuration Guide"><strong>Simplify Your Next.js and TurboRepo Setup: Easy-to-Follow Environment Configuration Guide</strong></a>
+<div><strong>4 May 2023</strong></div>
+<br/> Introduction
+In this article, we are gonna dive into an improved development experience with Next.js and TurboRepo by following our comprehensive and easy-to-understand environment setup guide. This detailed tutorial will walk you through each step o... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br>

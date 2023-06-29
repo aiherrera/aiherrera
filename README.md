@@ -125,7 +125,9 @@ Desktop applications have been an essential part of the software industry for de
 
 <br>
 
-<a href="#">
+[![GitHub Streak](https://streak-stats.demolab.com?user=aiherrera&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- <a href="#">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aiherrera&layout=compact&&hide_border=true&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiherrera&layout=compact&hide_border=true" />
@@ -136,9 +138,9 @@ Desktop applications have been an essential part of the software industry for de
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aiherrera&show_icons=true&rank_icon=github&hide_border=true&count_private=true&layout=compact&theme=dark">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=aiherrera&show_icons=true&hide_border=true&count_private=true&layout=compact" />
   </picture>
-</a>
+</a> -->
 
-<br><br>
+<br>
 
 <a href="https://app.daily.dev/aiherrera" target="_blank"><img src="https://api.daily.dev/devcards/b5e6815ecf934c7f9ea4c90bcbe9b540.png?r=tg8" width="300" alt="Alain Iglesias's Dev Card"/>
 </a>

@@ -52,7 +52,7 @@
 <p align="left">
 <a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="250px" align="left" /></a>
 <a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><strong>Grasping the Object.groupBy Method in JavaScript</strong></a>
-<div><strong>8 Sept 2023</strong> | <strong>Updated: 19 Sept 2023</strong></div>
+<div><strong>15 Sept 2023</strong> | <strong>Updated: 19 Sept 2023</strong></div>
 <br/> Introduction
 JavaScript, as a dynamic and ever-evolving programming language, continues to introduce new features and enhancements to cater to the needs of developers. Among its most recent additions is the Object.groupBy method, is a powerful and ve... </p> <br/> <br/>
 <p align="left">

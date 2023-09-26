@@ -1,4 +1,4 @@
-<a href="https://aiherrera.com">
+<a href="https://aiherrera.com" target="_blank">
   <h1>Hey folks 👋🏻 </h1>
 </a>
 

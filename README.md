@@ -52,35 +52,35 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695852044161/a03fa55e-f4d5-441d-9f4e-3ff11f7209b4.png" alt="How to set up a Local Development Environment for Supabase" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696463661649/1727e3ba-d546-4f74-9735-b281809975f3.png" alt="Enhancing User Experience: The Power of Supabase Auth UI" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><strong>Enhancing User Experience: The Power of Supabase Auth UI</strong></a>
+<div><strong>4 Oct 2023</strong></div>
+<br/> Introduction
+In today's digital world, user experience is key to the success of any web or mobile application. Users expect seamless, intuitive, and secure authentication processes that protect their personal information. That's where Supabase Auth U... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695852044161/a03fa55e-f4d5-441d-9f4e-3ff11f7209b4.png" alt="How to set up a Local Development Environment for Supabase" width="250px" align="right" /></a>
 <a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><strong>How to set up a Local Development Environment for Supabase</strong></a>
 <div><strong>27 Sept 2023</strong> | <strong>Updated: 27 Sept 2023</strong></div>
 <br/> Introduction
 Supabase is an open-source alternative to Firebase that provides authentication, real-time databases, storage, and more through a PostgreSQL database. Setting up a local development environment allows you to build and test Supabase apps ... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="250px" align="right" /></a>
+<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="250px" align="left" /></a>
 <a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><strong>Grasping the Object.groupBy Method in JavaScript</strong></a>
 <div><strong>15 Sept 2023</strong> | <strong>Updated: 19 Sept 2023</strong></div>
 <br/> Introduction
 JavaScript, as a dynamic and ever-evolving programming language, continues to introduce new features and enhancements to cater to the needs of developers. Among its most recent additions is the Object.groupBy method, is a powerful and ve... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.aiherrera.com/mastering-vite-application-testing-with-vitest-a-simple-guide-to-prevent-headaches" title="Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688964781337/e85567aa-64b8-4258-9113-5dad5439282b.png" alt="Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches" width="250px" align="left" /></a>
+<a href="https://blog.aiherrera.com/mastering-vite-application-testing-with-vitest-a-simple-guide-to-prevent-headaches" title="Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688964781337/e85567aa-64b8-4258-9113-5dad5439282b.png" alt="Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches" width="250px" align="right" /></a>
 <a href="https://blog.aiherrera.com/mastering-vite-application-testing-with-vitest-a-simple-guide-to-prevent-headaches" title="Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches"><strong>Mastering Vite Application Testing with Vitest: A simple guide to prevent  headaches</strong></a>
 <div><strong>10 July 2023</strong> | <strong>Updated: 10 July 2023</strong></div>
 <br/> Introduction
 Vite, a modern front-end build tool, has been gaining popularity due to its fast and lean development experience. Paired with Vitest, a testing framework designed specifically for Vite, you can create a robust testing environment for you... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.aiherrera.com/exploring-common-design-patterns-in-react" title="Exploring Common Design Patterns in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688414784848/6faf3571-8e74-4a7f-8f62-f7b65688f8b7.png" alt="Exploring Common Design Patterns in React" width="250px" align="right" /></a>
+<a href="https://blog.aiherrera.com/exploring-common-design-patterns-in-react" title="Exploring Common Design Patterns in React"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688414784848/6faf3571-8e74-4a7f-8f62-f7b65688f8b7.png" alt="Exploring Common Design Patterns in React" width="250px" align="left" /></a>
 <a href="https://blog.aiherrera.com/exploring-common-design-patterns-in-react" title="Exploring Common Design Patterns in React"><strong>Exploring Common Design Patterns in React</strong></a>
 <div><strong>4 July 2023</strong> | <strong>Updated: 4 July 2023</strong></div>
 <br/> Introduction
 Design patterns play a crucial role in building well-structured and maintainable applications. React, being a popular JavaScript library for building user interfaces, provides developers with flexibility and freedom to choose from variou... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.aiherrera.com/building-my-own-visual-studio-code-extension-bundle" title="Building My Own Visual Studio Code Extension Bundle"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1687596053119/b8e343cd-00bb-482d-ac40-ccf8bfd864e2.png" alt="Building My Own Visual Studio Code Extension Bundle" width="250px" align="left" /></a>
-<a href="https://blog.aiherrera.com/building-my-own-visual-studio-code-extension-bundle" title="Building My Own Visual Studio Code Extension Bundle"><strong>Building My Own Visual Studio Code Extension Bundle</strong></a>
-<div><strong>25 June 2023</strong> | <strong>Updated: 25 June 2023</strong></div>
-<br/> Introduction
-Recently we were struggling at work with newcomers joining our team and setting out each fresh equipment with all the required development environment. And from all the things we are trying to automate, I thought it would be nice to stre... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <br>

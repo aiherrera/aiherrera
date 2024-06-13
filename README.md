@@ -71,6 +71,10 @@
 <a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695852044161/a03fa55e-f4d5-441d-9f4e-3ff11f7209b4.png" alt="How to set up a Local Development Environment for Supabase" width="150px" align="left" /></a>
 <a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><strong>How to set up a Local Development Environment for Supabase</strong></a>
 <br><strong>27 Sept 2023</strong></p><br>
+<p>
+<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="150px" align="right" /></a>
+<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><strong>Grasping the Object.groupBy Method in JavaScript</strong></a>
+<br><strong>15 Sept 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 <br>

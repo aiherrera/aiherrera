@@ -14,11 +14,10 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "HohShenYien/action-hashnode-blog@main"
+        uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          USERNAME: 'aiherrera'
-          BLOG_URL: 'https://blog.aiherrera.com'
-          COUNT: 6
-          STYLE: 'blog-left'
+          HASHNODE_PUBLICATION_NAME: 'blog.aiherrera.com'
+          POST_COUNT: 6
+          FORMAT: 'stacked'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

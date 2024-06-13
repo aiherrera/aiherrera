@@ -51,30 +51,26 @@
 <br>
 
 <!-- HASHNODE_BLOG:START -->
-<p>
-<a href="https://blog.aiherrera.com/mastering-the-comment-anchors-extension-in-visual-studio-code" title="Mastering the Comment Anchors Extension in Visual Studio Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718135816017/96da79b4-9d4d-45c6-bb10-710e50ea5245.png" alt="Mastering the Comment Anchors Extension in Visual Studio Code" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/mastering-the-comment-anchors-extension-in-visual-studio-code" title="Mastering the Comment Anchors Extension in Visual Studio Code"><strong>Mastering the Comment Anchors Extension in Visual Studio Code</strong></a>
-<br><strong>11 June 2024</strong></p><br>
-<p>
-<a href="https://blog.aiherrera.com/the-structure-of-my-upcoming-ai-projects-tech-stack" title="The structure of my upcoming AI project's tech stack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696930780711/1aa18df5-c2e7-49b5-a99e-f4da74754da3.jpeg" alt="The structure of my upcoming AI project's tech stack" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/the-structure-of-my-upcoming-ai-projects-tech-stack" title="The structure of my upcoming AI project's tech stack"><strong>The structure of my upcoming AI project's tech stack</strong></a>
-<br><strong>10 Oct 2023</strong></p><br>
-<p>
-<a href="https://blog.aiherrera.com/transfer-your-local-postgresql-database-to-supabase" title="Transfer Your Local PostgreSQL Database to Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696576152219/b9d4dfa9-795a-4e6e-a13e-3449e136f296.png" alt="Transfer Your Local PostgreSQL Database to Supabase" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/transfer-your-local-postgresql-database-to-supabase" title="Transfer Your Local PostgreSQL Database to Supabase"><strong>Transfer Your Local PostgreSQL Database to Supabase</strong></a>
-<br><strong>6 Oct 2023</strong></p><br>
-<p>
-<a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696463661649/1727e3ba-d546-4f74-9735-b281809975f3.png" alt="Enhancing User Experience: The Power of Supabase Auth UI" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><strong>Enhancing User Experience: The Power of Supabase Auth UI</strong></a>
-<br><strong>4 Oct 2023</strong></p><br>
-<p>
-<a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695852044161/a03fa55e-f4d5-441d-9f4e-3ff11f7209b4.png" alt="How to set up a Local Development Environment for Supabase" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><strong>How to set up a Local Development Environment for Supabase</strong></a>
-<br><strong>27 Sept 2023</strong></p><br>
-<p>
-<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="150px" align="left" /></a>
-<a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><strong>Grasping the Object.groupBy Method in JavaScript</strong></a>
-<br><strong>15 Sept 2023</strong></p><br>
+<p align="left"><a href="https://blog.aiherrera.com/mastering-the-comment-anchors-extension-in-visual-studio-code" title="Mastering the Comment Anchors Extension in Visual Studio Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718135816017/96da79b4-9d4d-45c6-bb10-710e50ea5245.png" alt="Mastering the Comment Anchors Extension in Visual Studio Code" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/mastering-the-comment-anchors-extension-in-visual-studio-code" title="Mastering the Comment Anchors Extension in Visual Studio Code"><strong>Mastering the Comment Anchors Extension in Visual Studio Code</strong></a><div><strong>June 11, 2024</strong></div><br/>In the ever-evolving world of software development, keeping your code well-organized and easy to navigate is crucial. One powerful tool to help you achieve this is the Comment Anchors extension in Vis...</p><br/><br/>
+
+<p align="left"><a href="https://blog.aiherrera.com/the-structure-of-my-upcoming-ai-projects-tech-stack" title="The structure of my upcoming AI project's tech stack"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696930780711/1aa18df5-c2e7-49b5-a99e-f4da74754da3.jpeg" alt="The structure of my upcoming AI project's tech stack" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/the-structure-of-my-upcoming-ai-projects-tech-stack" title="The structure of my upcoming AI project's tech stack"><strong>The structure of my upcoming AI project's tech stack</strong></a><div><strong>October 10, 2023</strong></div><br/>This article belongs to the series - Supabase One for All
+
+Introduction
+In the world of modern web development, the choice of tools and libraries can make or break your application. It's not just abou...</p><br/><br/>
+
+<p align="left"><a href="https://blog.aiherrera.com/transfer-your-local-postgresql-database-to-supabase" title="Transfer Your Local PostgreSQL Database to Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696576152219/b9d4dfa9-795a-4e6e-a13e-3449e136f296.png" alt="Transfer Your Local PostgreSQL Database to Supabase" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/transfer-your-local-postgresql-database-to-supabase" title="Transfer Your Local PostgreSQL Database to Supabase"><strong>Transfer Your Local PostgreSQL Database to Supabase</strong></a><div><strong>October 6, 2023</strong></div><br/>Introduction
+Recently, I've seen many people asking how to move their PostgreSQL database to Supabase. They want a clear guide to help them switch without losing data or causing too much downtime. The...</p><br/><br/>
+
+<p align="left"><a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696463661649/1727e3ba-d546-4f74-9735-b281809975f3.png" alt="Enhancing User Experience: The Power of Supabase Auth UI" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/enhancing-user-experience-the-power-of-supabase-auth-ui" title="Enhancing User Experience: The Power of Supabase Auth UI"><strong>Enhancing User Experience: The Power of Supabase Auth UI</strong></a><div><strong>October 4, 2023</strong></div><br/>Introduction
+In today's digital world, user experience is key to the success of any web or mobile application. Users expect seamless, intuitive, and secure authentication processes that protect their ...</p><br/><br/>
+
+<p align="left"><a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695852044161/a03fa55e-f4d5-441d-9f4e-3ff11f7209b4.png" alt="How to set up a Local Development Environment for Supabase" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/how-to-set-up-a-local-development-environment-for-supabase" title="How to set up a Local Development Environment for Supabase"><strong>How to set up a Local Development Environment for Supabase</strong></a><div><strong>September 27, 2023</strong></div><br/>Introduction
+Supabase is an open-source alternative to Firebase that provides authentication, real-time databases, storage, and more through a PostgreSQL database. Setting up a local development envir...</p><br/><br/>
+
+<p align="left"><a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1695153475596/7f58256b-d5d7-4cc8-96ae-e6da48a1c7a2.png" alt="Grasping the Object.groupBy Method in JavaScript" width="300px" align="left" /></a><a href="https://blog.aiherrera.com/grasping-the-objectgroupby-method-in-javascript" title="Grasping the Object.groupBy Method in JavaScript"><strong>Grasping the Object.groupBy Method in JavaScript</strong></a><div><strong>September 15, 2023</strong></div><br/>Introduction
+JavaScript, as a dynamic and ever-evolving programming language, continues to introduce new features and enhancements to cater to the needs of developers. Among its most recent additions ...</p><br/><br/>
+
+
 <!-- HASHNODE_BLOG:END -->
 
 <br>

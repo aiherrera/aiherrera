@@ -20,5 +20,8 @@ jobs:
           BLOG_URL: 'https://blog.aiherrera.com'
           COUNT: 5
           STYLE: 'blog-alternate'
+          FILE: "README.md"
+          USE_CANONICAL_URL: "true"
+          USE_CUSTOM_BLOG_URL: "true"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

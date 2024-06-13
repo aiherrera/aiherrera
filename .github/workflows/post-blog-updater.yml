@@ -19,6 +19,6 @@ jobs:
           USERNAME: 'aiherrera'
           BLOG_URL: 'https://blog.aiherrera.com'
           COUNT: 6
-          STYLE: 'blog-alternate'
+          STYLE: 'blog-grid'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

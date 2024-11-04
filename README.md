@@ -15,8 +15,8 @@
 - 💻 &nbsp; Developer at <a rel="me" href="https://globant.com">Globant</a>
 - 🛠 &nbsp; I’m currently rewriting my <a rel="me" href="https://aiherrera.com">personal website</a> into Next 13
 - ✍️ &nbsp; Usually I write on my <a rel="me" href="https://blog.aiherrera.com">Blog</a> and/or in <a rel="me" href="https://aiherrera.medium.com">Medium</a>
-- 🌱 &nbsp; Constantly diving into new tech, these days I'm learning: Python & Flutter
-- 🆚 &nbsp; 2023-2024 Goals: Finish my MS. Big Data
+- 🌱 &nbsp; Constantly diving into new tech, these days I'm mastering: Svelte 5
+- 🆚 &nbsp; 2023 - Finished my MS. Big Data and AI
 
 <br>
 
